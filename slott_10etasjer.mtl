@@ -1,0 +1,26 @@
+# Wavefront MTL Material File
+# Generated for Blender Import
+
+newmtl SteinMur
+Ns 50.0000
+Ka 0.2000 0.2000 0.2000
+Kd 0.5500 0.5300 0.5000
+Ks 0.1000 0.1000 0.1000
+d 1.0
+illum 2
+
+newmtl GulvDekke
+Ns 30.0000
+Ka 0.1500 0.1200 0.1000
+Kd 0.4200 0.3200 0.2200
+Ks 0.0800 0.0800 0.0800
+d 1.0
+illum 2
+
+newmtl TakSkifer
+Ns 80.0000
+Ka 0.1000 0.1000 0.1500
+Kd 0.2200 0.2600 0.3200
+Ks 0.2500 0.2500 0.2500
+d 1.0
+illum 2
